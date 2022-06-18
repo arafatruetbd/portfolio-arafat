@@ -1,9 +1,9 @@
 {
     "basic_info": {
       "description_header": "Hi!",
-      "description": "👋 I'm Adam Howells. I’m a software developer currently undertaking a master's degree. I currently work in the civil service where I create and maintain internal services within an agile environment at the DVLA. The technlogies I primarily work with at the moment is Serverless + AWS, Spring framework, and Ruby.",
+      "description": "👋 I'm Arafat Hossain. I’m a software developer with prior graduation in computer science, and software engineer with more than 2 years of experience. I currently work as a full stack developer in an e-commerce organization where I create and maintain internal services within an agile environment at the Jira. The technlogies I primarily work with at the moment is NodeJS, AWS, ReactJS, PostgresSQL, and Docker.",
       "philosophy": "I’m a young and motivated individual who is reliable and confident with proven skills and experience. I enjoy problem solving and am quick to learn with good communication skills and the ability to work efficiently either individually or as part of a team in a professional environment. I’m committed to working in the IT industry, a skill and subject I am deeply passionate in.",
-      "preference": "I’m looking for a graduate role abroad, preferably in the Netherlands, although I am open to work anywhere for the right opportunity.",
+      "preference": "I’m looking for a full stack role, preferably remote, although I am open to work anywhere for the right opportunity.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -15,56 +15,101 @@
     },
     "projects": [
       {
-        "title": "OracyBox",
-        "startDate": "2019",
-        "description": "A blended e-learning solution that attempts to solve the difficulties in current oracy (speaking and listening skills) strategies in primary schools across Wales. The project was developed in conjunction with a member of the education industry. What is delivered is a Laravel/Symfony full-stack application to provide the tools necessary for teachers to record and provide feedback on a range of activities. Activities are then carried out by pupils in the classroom with an iOS application for the iPad.",
+        "title": "Market Bangla",
+        "startDate": "2020",
+        "description": "Market Bangla is one of the best online shops in Bangladesh for your daily, weekly, and monthly baza Fish, Hilsa Fish, Ready to cook fish and meat, Organic Dry fish, Meat, Organic Foods, Herbals for Health and Beauty, Dry Fruits, Fresh Fruits, Special Spices, Tasty Pickles, Fruits & Vegetables from hill tracts, Beans, Seeds, Lentils, Breakfast, Eggs, Rice, Ghani vangano Oil, Snacks, Dairy, Non-Polish Rice, Ready Mix, Baby food, Branded Cosmetics, Electronics, Gift Items, Flowers, Safe Food and more with cash on Home delivery",
         "images": [
-          "images/portfolio/oracybox/p1.jpg",
-          "images/portfolio/oracybox/p2.png",
-          "images/portfolio/oracybox/p3.jpeg",
-          "images/portfolio/oracybox/p4.jpg"
+          "images/portfolio/marketbangla/MB-1.png",
+          "images/portfolio/marketbangla/MB-2.png",
+          "images/portfolio/marketbangla/MB-3.png",
+          "images/portfolio/marketbangla/MB-4.png",
+          "images/portfolio/marketbangla/MB-5.png",
+          "images/portfolio/marketbangla/MB-6.png",
+          "images/portfolio/marketbangla/MB-7.png"
         ],
-        "url": "https://adamisafk.github.io/OracyBox/",
+        "url": "https://marketbangla.com/",
         "technologies": [
           {
-            "class": "devicon-swift-plain",
-            "name": "Swift"
+            "class": "devicon-nextjs-original",
+            "name": "NextJS"
           },
           {
-            "class": "devicon-laravel-plain",
-            "name": "Laravel"
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
           },
           {
-            "class": "devicon-mysql-plain",
-            "name": "MySQL"
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-amazonwebservices-original",
+            "name": "AWS"
+          },
+          {
+            "class": "devicon-docker-plain",
+            "name": "Docker"
+          },
+          {
+            "class":"devicon-redux-original",
+            "name":"Redux"
           }
         ]
       },
       {
-        "title": "Fake News Quiz",
+        "title": "Market Bangla BackEnd",
         "startDate": "2020",
-        "description": "Using PolitiFact data, this a simple react application which aims to test your ability to identify which of two news articles is fake and real. Loading may take some time due to using a free-tier dyno in Heroku.",
+        "description": "I was responsible for developing backend. I have used hapiJS as nodeJS framework, AWS S3 for image storage, AWS SES for Email service, SSLCommerz for online payment, Meili Search for faster search,PostgreSQL as DBMS, Docker for dockerize node application and many more npm package",
         "images": [
-          "images/portfolio/fakenews-quiz/p1.png",
-          "images/portfolio/fakenews-quiz/p2.jpg"
+          "images/portfolio/marketbanglaApi/MB-API-1.png"
         ],
-        "url": "https://fakenews-quiz.adamhowells.co.uk/",
+        "url": "https://api.marketbangla.com/",
         "technologies": [
           {
-            "class": "devicon-react-original",
-            "name": "React"
+            "class": "devicon-nodejs-plain",
+            "name": "NodeJS"
+          },
+          {
+            "class": "devicon-amazonwebservices-original",
+            "name": "AWS"
+          },
+          {
+            "class": "devicon-docker-plain",
+            "name": "Docker"
+          },
+          {
+            "class": "devicon-postgresql-plain",
+            "name": "PostgreSQL"
+          },
+          {
+            "class": "devicon-gitlab-plain",
+            "name": "Gitlab"
+          },
+          {
+            "class": "devicon-git-plain",
+            "name": "Git"
           }
         ]
       },
       {
-        "title": "Tetris JS",
+        "title": "Market Bangla Admin",
         "startDate": "2020",
-        "description": "I wanted to see if I could develop Tetris (using the official rule book) using only HTML, CSS, and JavaScript. Loading may take some time due to using a free-tier dyno in Heroku.",
+        "description": "I have Developed Admin UI For Market Bangla E-commerce,In Admin Panel, I have developed Order Page, Sales Page, Inventory Page, Category Page, Brand Page, Users Page, Coupon Page, User Review & Questions Page and many more using RaectJS",
         "images": [
-          "images/portfolio/tetris-js/p1.jpg",
-          "images/portfolio/tetris-js/p2.jpg"
+          "images/portfolio/marketbanglaAdmin/MB-Admin-1.png",
+          "images/portfolio/marketbanglaAdmin/MB-Admin-2.png",
+          "images/portfolio/marketbanglaAdmin/MB-Admin-3.png",
+          "images/portfolio/marketbanglaAdmin/MB-Admin-4.png",
+          "images/portfolio/marketbanglaAdmin/MB-Admin-5.png",
+          "images/portfolio/marketbanglaAdmin/MB-Admin-6.png",
+          "images/portfolio/marketbanglaAdmin/MB-Admin-7.png",
+          "images/portfolio/marketbanglaAdmin/MB-Admin-8.png",
+          "images/portfolio/marketbanglaAdmin/MB-Admin-9.png"
         ],
-        "url": "https://tetris.adamhowells.co.uk/",
+        "url": "https://admin.marketbangla.com/login",
         "technologies": [
           {
             "class": "devicon-html5-plain",
@@ -75,79 +120,88 @@
             "name": "CSS3"
           },
           {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          }
-        ]
-      },
-      {
-        "title": "Personalised License Plate Management System",
-        "startDate": "2021",
-        "description": "A full-stack application created for the Web Services and Web Development joint assignment. Uses Spring for the back-end, react for the front-end, and MySQL for the database including Redis for NoSQL caching. Entirely wrapped in docker containers.",
-        "images": [
-          "images/portfolio/lpms/p1.jpg",
-          "images/portfolio/lpms/p2.png",
-          "images/portfolio/lpms/p3.jpeg",
-          "images/portfolio/lpms/p4.jpg"
-        ],
-        "url": "https://github.com/adamisafk/personalised-plates",
-        "technologies": [
-          {
-            "class": "devicon-spring-plain-wordmark",
-            "name": "Spring"
-          },
-          {
-            "class": "devicon-java-plain",
-            "name": "Java"
-          },
-          {
             "class": "devicon-react-original",
-            "name": "React.JS"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          },
-          {
-            "class": "devicon-nodejs-plain",
-            "name": "Node.JS"
+            "name": "React"
           },
           {
             "class": "devicon-bootstrap-plain",
-            "name": "React-Bootstrap"
+            "name": "Bootstrap"
           },
           {
-            "class": "devicon-nginx-original",
-            "name": "Nginx"
+            "class":"devicon-redux-original",
+            "name":"Redux"
           },
           {
-            "class": "devicon-docker-plain",
-            "name": "Docker"
+            "class": "devicon-gitlab-plain",
+            "name": "Gitlab"
           },
           {
-            "class": "devicon-mysql-plain",
-            "name": "MySQL"
-          },
-          {
-            "class": "devicon-redis-plain",
-            "name": "Redis"
+            "class": "devicon-git-plain",
+            "name": "Git"
           }
         ]
       },
       {
-        "title": "What Does Ja Rule Think?: A Magic 8-Ball Tool",
-        "startDate": "2021",
-        "description": "A simple magic 8-ball style game where you ask Ja Rule his thoughts, and he shall answer. Created with React.JS and deployed using AWS Amplify.",
+        "title": "React E-commerce",
+        "startDate": "2019",
+        "description": "A full-stack application created for the E-commerce. Uses expressjs for the back-end, react for the front-end, and MongoDB for the database including Redux for state management.",
         "images": [
-          "images/portfolio/jarule/1.png",
-          "images/portfolio/jarule/2.png"
+          "images/portfolio/shop/Shop-1.png",
+          "images/portfolio/shop/Shop-2.png",
+          "images/portfolio/shop/Shop-3.png",
+          "images/portfolio/shop/Shop-4.png",
+          "images/portfolio/shop/Shop-5.png",
+          "images/portfolio/shop/Shop-6.png",
+          "images/portfolio/shop/Shop-7.png"
         ],
-        "url": "https://whatdoesjarulethink.com",
+        "url": "https://e-commerce-arafat.herokuapp.com/",
         "technologies": [
           {
-            "class": "devicon-react-original",
-            "name": "React.JS"
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
           },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
+          },
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          },
+          {
+            "class":"devicon-redux-original",
+            "name":"Redux"
+          },
+          {
+            "class": "devicon-gitlab-plain",
+            "name": "Gitlab"
+          },
+          {
+            "class": "devicon-git-plain",
+            "name": "Git"
+          },
+          {
+            "class":"devicon-mongodb-plain",
+            "name":"MongoDB"
+          }
+        ]
+      },
+      {
+        "title": "Blog Application",
+        "startDate": "2019",
+        "description": "A simple blog application with admin,user profile.Admin able to manage post from dashboard. User can post and there are also like and comment functionality",
+        "images": [
+          "images/portfolio/blog/Blog-1.png",
+          "images/portfolio/blog/Blog-2.png",
+          "images/portfolio/blog/Blog-3.png",
+          "images/portfolio/blog/Blog-4.png"
+        ],
+        "url": "https://arafat-blog.herokuapp.com/explorer",
+        "technologies": [
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
@@ -157,56 +211,75 @@
             "name": "Node.JS"
           },
           {
-            "class": "devicon-materialui-plain",
-            "name": "MaterialUI"
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
           },
           {
-            "class": "devicon-amazonwebservices-original",
-            "name": "AWS"
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          },
+          {
+            "class":"devicon-mongodb-plain",
+            "name":"MongoDB"
+          },
+          {
+            "class":"devicon-express-original",
+            "name":"ExpressJS"
           }
         ]
       },
       {
-        "title": "Harmoforce; the Microservice and Front-End",
-        "startDate": "2021",
-        "description": "Harmoforce is a community driven coordinator of validation staking on the Harmony ONE network. This is a microservice which keeps track and records delegators for a given target validator for easier insight into the effective staking pool of Harmoforce. Website created with React.js and deployed via AWS Amplify. Microservice exists as a Python AWS Lambda along with DynamoDB for storage.",
+        "title": "Dexalot Trade Application",
+        "startDate": "2022",
+        "description": "I am responsible for developing Component using React, I have contributed for developing pagination using firebase and solve responsive issue",
         "images": [
-          "images/portfolio/harmoforce/1.jpg",
-          "images/portfolio/harmoforce/2.jpg"
+          "images/portfolio/trade/Trade-1.png",
+          "images/portfolio/trade/Trade-2.png",
+          "images/portfolio/trade/Trade-3.png",
+          "images/portfolio/trade/Trade-4.png",
+          "images/portfolio/trade/Trade-5.png"
         ],
-        "url": "https://harmoforce.one/",
+        "url": "https://app.dexalot.com/trade",
         "technologies": [
           {
-            "class": "devicon-react-original",
-            "name": "React.JS"
+            "class": "devicon-nextjs-original",
+            "name": "NextJS"
           },
           {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
           },
           {
-            "class": "devicon-nodejs-plain",
-            "name": "Node.JS"
+            "class": "devicon-html5-plain",
+            "name": "HTML"
           },
           {
-            "class": "devicon-python-plain",
-            "name": "Python"
+            "class": "devicon-tailwindcss-original-wordmark",
+            "name": "TailWind CSS"
           },
           {
-            "class": "devicon-amazonwebservices-original",
-            "name": "AWS"
+            "class": "devicon-firebase-plain",
+            "name": "Firebase"
+          },
+          {
+            "class":"devicon-redux-original",
+            "name":"Redux"
           }
         ]
       }
     ],
     "education": [
       {
-        "company": "University of Wales Trinity Saint David",
-        "title": "Master's Degree",
-        "description": "Currently on my second semester where I will soon be tackling the dissertation project.",
-        "years": "2020 - 2022",
+        "company": "Rajshahi University of Engineering & Technology",
+        "title": "B.Sc. Degree",
+        "description": "I have completed my bachelor from RUET with a CGPA 3.42 in Computer Science & Engineering",
+        "years": "2013 - 2017",
         "mainTech": [
-          "Computer Software Engineering"
+          "Computer Science Engineering"
         ],
         "technologies": [
           "Object-Oriented Programming",
@@ -217,136 +290,81 @@
           "Database Systems",
           "More to come..."
         ]
-      },
-      {
-        "company": "University of Wales Trinity Saint David",
-        "title": "Bachelor's Degree",
-        "description": "For my dissertation I researched and developed a blended e-learning solution that attempts to solve the difficulties in current oracy (speaking and listening skills) strategies in primary schools across Wales. The project was developed in conjunction with a member of the education industry. What is delivered is a Laravel/Symfony full-stack application to provide the tools necessary for teachers to record and provide feedback on a range of activities. Activities are then carried out by pupils in the classroom with an iOS application for the iPad.",
-        "years": "2017 - 2020",
-        "mainTech": [
-          "Applied Computing"
-        ],
-        "technologies": [
-          "Advanced Web Development",
-          "Advanced Routing and Switching",
-          "Big Data (Data Science)",
-          "Wide Area Networks",
-          "Application Development",
-          "Business and Web",
-          "Project Management",
-          "Enterprise"
-        ]
-      },
-      {
-        "company": "Coleg Sir Gar",
-        "title": "L3 Extended Diploma | A Level",
-        "description": "My entry into the world of IT. I did a 2-year BTEC L3 diploma in Computing where I was introduced to programming and development, and a whole range of other relevent topics including transferrable skills. In conjuction with this I also undertook an A level in Government and Politics.",
-        "years": "2015 - 2017",
-        "mainTech": [
-          "Computing | Government and Politics"
-        ],
-        "technologies": [
-          "Event-Driven Programming",
-          "Database Design",
-          "Web Development",
-          "Computer Systems Architecture",
-          "Money and Finance Skills (Ex. Diploma L1)",
-          "IT Users (Ex. Diploma L1)",
-          "Welsh Baccalaureate Adv. Global Citizenship and Enterprise"
-        ]
-      },
-      {
-        "company": "Bryngwyn Comprehensive School",
-        "title": "GCSEs",
-        "description": "",
-        "years": "2010 - 2015",
-        "mainTech": [
-          "Various Subjects"
-        ],
-        "technologies": [
-          "ICT (A)",
-          "Mathematics (B)",
-          "Design and Tech Graphic Products (B)",
-          "English Literature (B)",
-          "Welsh Second Language (B)",
-          "BTEC Music (Distinction, Equiv. to 2 GCSEs)",
-          "English Language (C)",
-          "Additional Science (C)",
-          "Core Science (C)",
-          "Geography (C)"
-        ]
       }
     ],
     "expertise": {
       "icons": [
         {
           "title": "Full-Stack Web Development",
-          "description": "I have skills and experience to develop full-stack web applications and services in a variety of technologies. My knowledge area for full-stack apps include HTML/CSS/JS, Java (+ Spring Framework), NodeJS (+ Express), Serverless (+ AWS Lambda), PHP (+ Laravel/Symfony), React (+ Redux), and Ruby on Rails. I'm able to create and maintain APIs, web servers, and dockerised environments."
+          "description": "I have skills and experience to develop full-stack web applications and services in a variety of technologies. My knowledge area for full-stack apps include HTML/CSS/JS, Javascript (+ Typescript), NodeJS (+ HapiJS,Express, NextJS), AWS, React (+ Redux), PostgreSQL, MongoDB and Gitlab CI/CD. I'm able to create and maintain APIs, web servers, and dockerised environments."
         },
         {
           "title": "Database Systems",
-          "description": "I have a detailed level of understanding relational database management systems. I have experience with normalisation and a wide range of SQL languages, most notably MySQL/MariaDB, and NoSQL such as MongoDB and Redis. I also have the know-how to implement and use databases in software applications and RESTful APIs."
+          "description": "I have a detailed level of understanding relational database management systems. I have experience with normalisation and a wide range of SQL languages, most notably MySQL/PostgreSQL, and NoSQL such as MongoDB. I also have the know-how to implement and use databases in software applications and RESTful APIs."
         },
         {
           "title": "E-Commerce",
-          "description": "I have knowledge in business and have experience with developing an e-commerce site. The Business and Web module I undertook involved responsive web design through CSS frameworks, CMS such as Wordpress, and marketing include social media, email, and blogging."
-        },
-        {
-          "title": "Data Science",
-          "description": "I understand the difference between traditional and big data and big data strategies (aims, policies, plans, actions). I know how you're able to extract value (useful analysis) from large volumes of data from many data sources. I have experience with working with Apache Hadoop."
+          "description": "I have knowledge in business and have experience with developing an e-commerce site. The Business and Web module I undertook involved responsive web design through CSS frameworks, and marketing include social media, email, and blogging."
         },
         {
           "title": "Project Management",
-          "description": "Through project management modules in education and working in an agile environment, I have experience with working with project planning. I'm able to work in Agile methodologies such as SCRUM with the inclusion of DevOps, Continuous Testing/Delivery, and Kanban Boards."
-        },
-        {
-          "title": "Networking",
-          "description": "From routing and switching to wide area networks, I understand networking theory and the application of networks. Various networking modules allowed me to learn from Cisco, and take part in CCNA backed exams."
+          "description": "Through project management modules in education and working in an agile environment, I have experience with working with project planning. I'm able to work in Agile methodologies such as SCRUM with the inclusion of DevOps, Continuous Testing/Delivery, and Jira Boards."
         }
       ]
     },
     "experience": [
       {
-        "company": "DVLA",
-        "title": "Graduate Software Engineer",
-        "description": "I work at the DVLA as part of it's MSc graduate development programme. My current role is a trainee engineer where I'm a part of a fast paced and encouraging workforce. My responsibilities includes:",
+        "company": "Market Bangla Limited",
+        "title": "Full Stack Developer",
+        "description": "I work at the Market Bangla Limited as a full stack developer. My responsibilities includes:",
         "responsibilities" : [
-          "Providing system support for all environments including our production teams",
-          "Working on technical implementation of apps and infrastructure",
-          "Being involved in with larger in-house projects to meet our customer's requirements",
-          "Supporting the creation of standardised documentation",
-          "Developing skills and understanding of DVLA's tech estate and the process",
-          "Developing, testing and supporting current systems",
-          "Using automated test tools"
+          "Developing Backend Rest API using HapiJS.",
+          "Implemented faster Search API Algolia Search and updated it to Meili Search.",
+          "Developed Image Upload functionality to AWS S3.",
+          "Developed Credit System For online payment.",
+          "Implemented SSLCommerz Payment.",
+          "Implementing SEO",
+          "Developing Admin UI in React and made it functional by consuming rest api.",
+          "Developing Website using NextJS.",
+          "Planing, Design and implemented PostgreSQL Database.",
+          "Maintaining Website by implementing new features and upgrading it."
         ],
-        "years": "09.2020 - present",
+        "years": "11.2020 - present",
         "mainTech": [
-          "Serverless"
+          "NodeJS"
         ],
         "technologies": [
           "Agile Development",
           "DevOps",
-          "Serverless Stack",
-          "AWS",
-          "Spring Framework",
-          "Java",
+          "AWS EC2",
+          "AWS S3",
+          "AWS SES",
+          "AWS Cloudfront",
+          "Javascript",
+          "ReactJS",
           "Unit Testing",
-          "Ruby on Rails"
+          "PostgreSQL",
+          "NextJS",
+          "Search API"
         ]
       },
       {
-        "company": "McDonald's",
-        "title": "Crew Member",
-        "description": "In a fast-paced and dynamic environment, I worked among a team of crew members to deliver a service at the best possible quality to all customers. From customer service to cooking, the responsibilities of a crew member is flexbile depending on the given situation.",
+        "company": "Chittagong Club Limited",
+        "title": "IT Officer",
+        "description": "In a fast-paced and dynamic environment, I worked as a IT Officer to make smooth communication among all the departments",
         "responsibilities": [
-
+          "Network routing, security protocols & implementations: TCP/IP.",
+          "Troubleshoot system & network problems & Diagnose & solve hardware or software faults and replacing parts.",
+          "Developed Crystal Report.",
+          "ERP software maintenance"
         ],
-        "years": "08.2018 - 05.2019",
+        "years": "03.2018 - 01.2019",
         "mainTech": [
-          ""
+          "MySQL"
         ],
         "technologies": [
-          ""
+          "MySQL",
+          "Crystal Report"
         ]
       }
     ]

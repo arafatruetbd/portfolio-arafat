@@ -1,25 +1,35 @@
 {
     "basic_info": {
-      "name": "Adam Howells",
-      "titles": [ "Full-stack Developer", "Web Developer", "DevOps Developer", "Serverless Developer", "Mobile App Developer" ],
+      "name": "Arafat Hossain",
+      "titles": [ "Full-stack Developer", "Web Developer", "React Developer" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com/adamisafk",
+          "url": "https://github.com/arafatruetbd",
           "class": "fab fa-github"
         },
         {
+          "name": "gitlab",
+          "url": "https://gitlab.com/arafat.ruet.bd",
+          "class": "fab fa-gitlab"
+        },
+        {
           "name": "linkedin",
-          "url": "https://www.linkedin.com/in/adam-howells-7451b7172/",
+          "url": "https://www.linkedin.com/in/arafat-hossain-a89531148/",
           "class": "fab fa-linkedin"
         },
         {
+          "name": "researchate",
+          "url": "https://www.researchgate.net/profile/Arfat-Hossain",
+          "class": "fab fa-researchgate"
+        },
+        {
           "name": "email",
-          "url": "mailto:adamisafk@gmail.com",
+          "url": "mailto:arafat.ruet.bd@gmail.com",
           "class": "fa fa-envelope"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "arafat.jpg"
     },
     "skills": {
       "icons": [
@@ -31,12 +41,27 @@
         {
           "name": "CSS 3",
           "class": "devicon-css3-plain",
-          "level": "95"
+          "level": "80"
+        },
+        {
+          "name": "SASS",
+          "class": "devicon-sass-original",
+          "level": "55"
+        },
+        {
+          "name":"Tailwind CSS",
+          "class":"devicon-css3-plain",
+          "level":"80"
         },
         {
           "name": "JavaScript",
           "class": "devicon-javascript-plain",
-          "level": "70"
+          "level": "80"
+        },
+        {
+          "name": "Typescript",
+          "class": "devicon-typescript-plain",
+          "level": "60"
         },
         {
           "name": "NodeJS",
@@ -49,34 +74,9 @@
           "level": "80"
         },
         {
-          "name": "Java",
-          "class": "devicon-java-plain",
-          "level": "90"
-        },
-        {
-          "name": "Ruby",
-          "class": "devicon-ruby-plain",
-          "level": "70"
-        },
-        {
-          "name": "Rails",
-          "class": "devicon-rails-plain",
-          "level": "70"
-        },
-        {
           "name": "AWS",
           "class": "devicon-amazonwebservices-original",
           "level": "75"
-        },
-        {
-          "name": "PHP",
-          "class": "devicon-php-plain",
-          "level": "85"
-        },
-        {
-          "name": "Laravel",
-          "class": "devicon-laravel-plain",
-          "level": "65"
         },
         {
           "name": "MySql",
@@ -89,9 +89,9 @@
           "level": "60"
         },
         {
-          "name": "Redis",
-          "class": "devicon-redis-plain",
-          "level": "60"
+          "name": "PostgreSQL",
+          "class": "devicon-postgresql-plain",
+          "level": "80"
         },
         {
           "name": "Docker",
@@ -101,22 +101,17 @@
         {
           "name": "Git",
           "class": "devicon-git-plain",
-          "level": "60"
+          "level": "95"
         },
         {
           "name": "Linux",
           "class": "devicon-linux-plain",
-          "level": "60"
+          "level": "80"
         },
         {
-          "name": "Swift",
-          "class": "devicon-swift-plain",
-          "level": "60"
-        },
-        {
-          "name": "Android",
-          "class": "devicon-android-plain",
-          "level": "60"
+          "name": "Jira",
+          "class": "devicon-git-plain",
+          "level": "90"
         }
       ]
     }

@@ -66,8 +66,10 @@ class App extends Component {
       },
     });
   }
+  
 
   render() {
+    console.log(this.state.sharedData.basic_info);
     return (
       <div>
         <Header sharedData={this.state.sharedData.basic_info} />
