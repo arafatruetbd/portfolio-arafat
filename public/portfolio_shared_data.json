@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "name": "Arafat Hossain",
-      "titles": [ "Full-stack Developer", "Web Developer", "React Developer" ],
+      "titles": [ "Full-stack Developer", "Software Engineer" ],
       "social": [
         {
           "name": "github",
@@ -44,12 +44,22 @@
           "level": "80"
         },
         {
-          "name": "SASS",
-          "class": "devicon-sass-original",
-          "level": "55"
+          "name":"Tailwind CSS",
+          "class":"devicon-css3-plain",
+          "level":"80"
         },
         {
-          "name":"Tailwind CSS",
+          "name":"Bootstrap",
+          "class":"devicon-bootstrap-plain",
+          "level":"80"
+        },
+        {
+          "name":"Chakra UI",
+          "class":"devicon-css3-plain",
+          "level":"80"
+        },
+        {
+          "name":"Reactstrap",
           "class":"devicon-css3-plain",
           "level":"80"
         },
@@ -57,11 +67,6 @@
           "name": "JavaScript",
           "class": "devicon-javascript-plain",
           "level": "80"
-        },
-        {
-          "name": "Typescript",
-          "class": "devicon-typescript-plain",
-          "level": "60"
         },
         {
           "name": "NodeJS",
@@ -74,14 +79,29 @@
           "level": "80"
         },
         {
+          "name": "NextJS",
+          "class": "devicon-nextjs-original",
+          "level": "80"
+        },
+        {
+          "name": "HapiJS",
+          "class": "devicon-nodejs-plain",
+          "level": "80"
+        },
+        {
+          "name": "Redux",
+          "class": "devicon-redux-original",
+          "level": "80"
+        },
+        {
+          "name": "Redux Toolkit",
+          "class": "devicon-redux-original",
+          "level": "80"
+        },
+        {
           "name": "AWS",
           "class": "devicon-amazonwebservices-original",
           "level": "75"
-        },
-        {
-          "name": "MySql",
-          "class": "devicon-mysql-plain",
-          "level": "60"
         },
         {
           "name": "MongoDB",
