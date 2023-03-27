@@ -149,7 +149,7 @@
         "images/portfolio/falcon/falcon-1.png",
         "images/portfolio/falcon/falcon-2.png"
       ],
-      "url": "https://petronas-rel.outsystemsenterprise.com/Falcon/",
+      "url": "#",
       "technologies": [
         {
           "class": "devicon-python-plain",
