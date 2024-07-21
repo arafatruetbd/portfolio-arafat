@@ -1,0 +1,655 @@
+{
+  "basic_info": {
+    "description_header": "Hi!",
+    "description": "👋 I'm Arafat Hossain. I’m a software developer with prior graduation in computer science, and software engineer around 3 years of experience. I currently working as a full stack developer developer in Petronas Digital sdn bhd where I create and maintain internal services within an agile environment at the Azure Board. The technlogies I primarily work with at the moment is NodeJS, AWS, ReactJS, PostgresSQL, and Docker.",
+    "philosophy": "I’m a young and motivated individual who is reliable and confident with proven skills and experience. I enjoy problem solving and am quick to learn with good communication skills and the ability to work efficiently either individually or as part of a team in a professional environment. I’m committed to working in the IT industry, a skill and subject I am deeply passionate in.",
+    "preference": "I’m looking for a full stack role, preferably remote, although I am open to work anywhere for the right opportunity.",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "education": "Education",
+      "expertise": "Expertise",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "Market Bangla",
+      "startDate": "2020",
+      "description": "Market Bangla is one of the best online shops in Bangladesh for your daily, weekly, and monthly baza Fish, Hilsa Fish, Ready to cook fish and meat, Organic Dry fish, Meat, Organic Foods, Herbals for Health and Beauty, Dry Fruits, Fresh Fruits, Special Spices, Tasty Pickles, Fruits & Vegetables from hill tracts, Beans, Seeds, Lentils, Breakfast, Eggs, Rice, Ghani vangano Oil, Snacks, Dairy, Non-Polish Rice, Ready Mix, Baby food, Branded Cosmetics, Electronics, Gift Items, Flowers, Safe Food and more with cash on Home delivery",
+      "images": [
+        "images/portfolio/marketbangla/MB-1.png",
+        "images/portfolio/marketbangla/MB-2.png",
+        "images/portfolio/marketbangla/MB-3.png",
+        "images/portfolio/marketbangla/MB-4.png",
+        "images/portfolio/marketbangla/MB-5.png",
+        "images/portfolio/marketbangla/MB-6.png",
+        "images/portfolio/marketbangla/MB-7.png"
+      ],
+      "url": "https://marketbangla.com/",
+      "technologies": [
+        {
+          "class": "devicon-nextjs-original",
+          "name": "NextJS"
+        },
+        {
+          "class": "devicon-bootstrap-plain",
+          "name": "Bootstrap"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS3"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML"
+        },
+        {
+          "class": "devicon-amazonwebservices-original",
+          "name": "AWS"
+        },
+        {
+          "class": "devicon-docker-plain",
+          "name": "Docker"
+        },
+        {
+          "class": "devicon-redux-original",
+          "name": "Redux"
+        }
+      ]
+    },
+    {
+      "title": "Market Bangla BackEnd",
+      "startDate": "2020",
+      "description": "I was responsible for developing backend. I have used hapiJS as nodeJS framework, AWS S3 for image storage, AWS SES for Email service, SSLCommerz for online payment, Meili Search for faster search,PostgreSQL as DBMS, Docker for dockerize node application and many more npm package",
+      "images": ["images/portfolio/marketbanglaApi/MB-API-1.png"],
+      "url": "https://api.marketbangla.com/",
+      "technologies": [
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "NodeJS"
+        },
+        {
+          "class": "devicon-amazonwebservices-original",
+          "name": "AWS"
+        },
+        {
+          "class": "devicon-docker-plain",
+          "name": "Docker"
+        },
+        {
+          "class": "devicon-postgresql-plain",
+          "name": "PostgreSQL"
+        },
+        {
+          "class": "devicon-gitlab-plain",
+          "name": "Gitlab"
+        },
+        {
+          "class": "devicon-git-plain",
+          "name": "Git"
+        }
+      ]
+    },
+    {
+      "title": "Market Bangla Admin",
+      "startDate": "2020",
+      "description": "I have Developed Admin UI For Market Bangla E-commerce,In Admin Panel, I have developed Order Page, Sales Page, Inventory Page, Category Page, Brand Page, Users Page, Coupon Page, User Review & Questions Page and many more using RaectJS",
+      "images": [
+        "images/portfolio/marketbanglaAdmin/MB-Admin-1.png",
+        "images/portfolio/marketbanglaAdmin/MB-Admin-2.png",
+        "images/portfolio/marketbanglaAdmin/MB-Admin-3.png",
+        "images/portfolio/marketbanglaAdmin/MB-Admin-4.png",
+        "images/portfolio/marketbanglaAdmin/MB-Admin-5.png",
+        "images/portfolio/marketbanglaAdmin/MB-Admin-6.png",
+        "images/portfolio/marketbanglaAdmin/MB-Admin-7.png",
+        "images/portfolio/marketbanglaAdmin/MB-Admin-8.png",
+        "images/portfolio/marketbanglaAdmin/MB-Admin-9.png"
+      ],
+      "url": "https://admin.marketbangla.com/login",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS3"
+        },
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-bootstrap-plain",
+          "name": "Bootstrap"
+        },
+        {
+          "class": "devicon-redux-original",
+          "name": "Redux"
+        },
+        {
+          "class": "devicon-gitlab-plain",
+          "name": "Gitlab"
+        },
+        {
+          "class": "devicon-git-plain",
+          "name": "Git"
+        }
+      ]
+    },
+    {
+      "title": "Falcon",
+      "startDate": "2023",
+      "description": "Falcon is an Enterprise Engineering Visual Analytics Program that enable visual analysis automation to improve efficiency and consistency for engineering applications.",
+      "images": ["images/portfolio/falcon/falcon-1.jpg"],
+      "url": "#",
+      "technologies": [
+        {
+          "class": "devicon-python-plain",
+          "name": "Python"
+        },
+        {
+          "class": "devicon-amazonwebservices-original",
+          "name": "AWS"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "NodeJS"
+        }
+      ]
+    },
+    {
+      "title": "E-Invoice",
+      "startDate": "2024",
+      "description": "Assessment of e-Invoicing for Petroliam Nasional Berhad",
+      "images": ["images/portfolio/falcon/falcon-1.jpg"],
+      "url": "https://einvoice.petronas.com/login",
+      "technologies": [
+        {
+          "class": "devicon-redux-original",
+          "name": "NextJS"
+        },
+        {
+          "class": "devicon-amazonwebservices-original",
+          "name": "AWS"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "NodeJS"
+        },
+        {
+          "class": "devicon-postgresql-plain",
+          "name": "PostgreSQL"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "Typescript"
+        },
+        {
+          "class": "devicon-tailwindcss-original-wordmark",
+          "name": "TailWind CSS"
+        },
+        {
+          "class": "devicon-tailwindcss-original-wordmark",
+          "name": "Context API"
+        },
+        {
+          "class": "devicon-tailwindcss-original-wordmark",
+          "name": "Drizzle ORM"
+        },
+        {
+          "class": "devicon-tailwindcss-original-wordmark",
+          "name": "Next UI"
+        },
+        {
+          "class": "devicon-tailwindcss-original-wordmark",
+          "name": "Azure Devops"
+        }
+      ]
+    },
+    {
+      "title": "PACES",
+      "startDate": "2023",
+      "description": "Digitalization of utilities billing for Kerteh Integrated Petrochemical Complex (KIPC), Terengganu & Utilities Gebeng (UG) that supplies Utilities for Gebeng Industrial Estate, Pahang. ",
+      "images": ["images/portfolio/falcon/falcon-1.jpg"],
+      "url": "https://paces.petronas.com/",
+      "technologies": [
+        {
+          "class": "devicon-redux-original",
+          "name": "NextJS"
+        },
+        {
+          "class": "devicon-amazonwebservices-original",
+          "name": "AWS"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "NodeJS"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "Typescript"
+        },
+        {
+          "class": "devicon-tailwindcss-original-wordmark",
+          "name": "TailWind CSS"
+        },
+        {
+          "class": "devicon-tailwindcss-original-wordmark",
+          "name": "Ant Design"
+        },
+        {
+          "class": "devicon-tailwindcss-original-wordmark",
+          "name": "Context API"
+        },
+        {
+          "class": "devicon-tailwindcss-original-wordmark",
+          "name": "Azure Devops"
+        }
+      ]
+    },
+    {
+      "title": "PACES",
+      "startDate": "2023",
+      "description": "Digitalization of utilities billing for Kerteh Integrated Petrochemical Complex (KIPC), Terengganu & Utilities Gebeng (UG) that supplies Utilities for Gebeng Industrial Estate, Pahang. ",
+      "images": ["images/portfolio/falcon/falcon-1.jpg"],
+      "url": "https://paces.petronas.com/",
+      "technologies": [
+        {
+          "class": "devicon-redux-original",
+          "name": "NextJS"
+        },
+        {
+          "class": "devicon-amazonwebservices-original",
+          "name": "AWS"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "NodeJS"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "Typescript"
+        },
+        {
+          "class": "devicon-tailwindcss-original-wordmark",
+          "name": "TailWind CSS"
+        },
+        {
+          "class": "devicon-tailwindcss-original-wordmark",
+          "name": "Ant Design"
+        },
+        {
+          "class": "devicon-tailwindcss-original-wordmark",
+          "name": "Context API"
+        },
+        {
+          "class": "devicon-tailwindcss-original-wordmark",
+          "name": "Azure Devops"
+        }
+      ]
+    },
+    {
+      "title": "Digital Academy",
+      "startDate": "2023",
+      "description": "Digital Academy is a platform for PETRONAS Enterprise members to learn and skill up. In Digital Academy, user can gain the latest digital skills, brush up on existing ones and stay up-to-date with the latest and advance digital trends. With live and self-paced courses available, user can get global certifications and connect with like-minded individuals. Plus, our Digital Foundations courses are free-of-charge, so user can jumpstart your digital journey.",
+      "images": ["images/portfolio/falcon/falcon-1.jpg"],
+      "url": "https://digitalacademy.petronas.com/",
+      "technologies": [
+        {
+          "name": "Chakra UI",
+          "class": "devicon-css3-plain"
+        },
+        {
+          "name": "NextJS",
+          "class": "devicon-nextjs-original"
+        },
+        {
+          "name": "Redux Toolkit",
+          "class": "devicon-redux-original"
+        },
+        {
+          "name": "AWS",
+          "class": "devicon-amazonwebservices-original"
+        },
+        {
+          "name": "PostgreSQL",
+          "class": "devicon-postgresql-plain"
+        },
+        {
+          "name": "Git",
+          "class": "devicon-git-plain"
+        },
+        {
+          "class": "devicon-tailwindcss-original-wordmark",
+          "name": "Context API"
+        },
+        {
+          "class": "devicon-tailwindcss-original-wordmark",
+          "name": "Azure Devops"
+        },
+        {
+          "class": "devicon-tailwindcss-original-wordmark",
+          "name": "Formik"
+        },
+        {
+          "class": "devicon-tailwindcss-original-wordmark",
+          "name": "Jest"
+        }
+      ]
+    },
+    {
+      "title": "Stear",
+      "startDate": "2022",
+      "description": "Welcome to STEAR! This is your go-to resource for everything about our logistics solution, aimed at optimizing operations, reducing carbon footprint, and driving business efficiency.Dive into features like Data-Driven Demand, Smart Planning, Real-Time Tracking, and more. This space is dedicated to collaboration and continuous improvement.",
+      "images": ["images/portfolio/falcon/falcon-1.jpg"],
+      "url": "https://d3jpi6cu5ukkyh.cloudfront.net/",
+      "technologies": [
+        {
+          "name": "Chakra UI",
+          "class": "devicon-css3-plain"
+        },
+        {
+          "name": "NextJS",
+          "class": "devicon-nextjs-original"
+        },
+        {
+          "name": "Git",
+          "class": "devicon-git-plain"
+        },
+        {
+          "class": "devicon-tailwindcss-original-wordmark",
+          "name": "Jest"
+        }
+      ]
+    },
+    {
+      "title": "Dexalot Trade Application",
+      "startDate": "2022",
+      "description": "I am responsible for developing Component using React, I have contributed for developing pagination using firebase and solve responsive issue",
+      "images": [
+        "images/portfolio/trade/Trade-1.png",
+        "images/portfolio/trade/Trade-2.png",
+        "images/portfolio/trade/Trade-3.png",
+        "images/portfolio/trade/Trade-4.png",
+        "images/portfolio/trade/Trade-5.png"
+      ],
+      "url": "https://app.dexalot.com/trade",
+      "technologies": [
+        {
+          "class": "devicon-nextjs-original",
+          "name": "NextJS"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS3"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML"
+        },
+        {
+          "class": "devicon-tailwindcss-original-wordmark",
+          "name": "TailWind CSS"
+        },
+        {
+          "class": "devicon-firebase-plain",
+          "name": "Firebase"
+        },
+        {
+          "class": "devicon-redux-original",
+          "name": "Redux"
+        }
+      ]
+    },
+    {
+      "title": "React E-commerce",
+      "startDate": "2019",
+      "description": "A full-stack application created for the E-commerce. Uses expressjs for the back-end, react for the front-end, and MongoDB for the database including Redux for state management.",
+      "images": [
+        "images/portfolio/shop/Shop-1.png",
+        "images/portfolio/shop/Shop-2.png",
+        "images/portfolio/shop/Shop-3.png",
+        "images/portfolio/shop/Shop-4.png",
+        "images/portfolio/shop/Shop-5.png",
+        "images/portfolio/shop/Shop-6.png",
+        "images/portfolio/shop/Shop-7.png"
+      ],
+      "url": "https://e-commerce-arafat.herokuapp.com/",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS3"
+        },
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-bootstrap-plain",
+          "name": "Bootstrap"
+        },
+        {
+          "class": "devicon-redux-original",
+          "name": "Redux"
+        },
+        {
+          "class": "devicon-gitlab-plain",
+          "name": "Gitlab"
+        },
+        {
+          "class": "devicon-git-plain",
+          "name": "Git"
+        },
+        {
+          "class": "devicon-mongodb-plain",
+          "name": "MongoDB"
+        }
+      ]
+    },
+    {
+      "title": "Blog Application",
+      "startDate": "2019",
+      "description": "A simple blog application with admin,user profile.Admin able to manage post from dashboard. User can post and there are also like and comment functionality",
+      "images": [
+        "images/portfolio/blog/Blog-1.png",
+        "images/portfolio/blog/Blog-2.png",
+        "images/portfolio/blog/Blog-3.png",
+        "images/portfolio/blog/Blog-4.png"
+      ],
+      "url": "https://arafat-blog.herokuapp.com/explorer",
+      "technologies": [
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "Node.JS"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS3"
+        },
+        {
+          "class": "devicon-bootstrap-plain",
+          "name": "Bootstrap"
+        },
+        {
+          "class": "devicon-mongodb-plain",
+          "name": "MongoDB"
+        },
+        {
+          "class": "devicon-express-original",
+          "name": "ExpressJS"
+        }
+      ]
+    }
+  ],
+  "education": [
+    {
+      "company": "Frankfurt University of Applied Sciences",
+      "title": "M.Sc. Degree",
+      "description": "Enrolled in High Integrity System",
+      "years": "2024 - Current",
+      "mainTech": ["High Integrity System"],
+      "technologies": [
+        "Machine Learning",
+        "Database management system",
+        "Programming and Software Testing",
+        "Agile Software Engineering Principles",
+        "Database Systems",
+        "More to come..."
+      ]
+    },
+    {
+      "company": "Rajshahi University of Engineering & Technology",
+      "title": "B.Sc. Degree",
+      "description": "I have completed my bachelor from RUET with a CGPA 3.42 in Computer Science & Engineering",
+      "years": "2013 - 2017",
+      "mainTech": ["Computer Science Engineering"],
+      "technologies": [
+        "Object-Oriented Programming",
+        "Web Development",
+        "Web Services",
+        "Programming and Software Testing",
+        "Agile Software Engineering Principles",
+        "Database Systems",
+        "More to come..."
+      ]
+    }
+  ],
+  "expertise": {
+    "icons": [
+      {
+        "title": "Full-Stack Web Development",
+        "description": "I have skills and experience to develop full-stack web applications and services in a variety of technologies. My knowledge area for full-stack apps include HTML/CSS/JS, Javascript (+ Typescript), NodeJS (+ HapiJS,Express, NextJS), AWS, React (+ Redux), PostgreSQL, MongoDB and Gitlab CI/CD. I'm able to create and maintain APIs, web servers, and dockerised environments."
+      },
+      {
+        "title": "Database Systems",
+        "description": "I have a detailed level of understanding relational database management systems. I have experience with normalisation and a wide range of SQL languages, most notably MySQL/PostgreSQL, and NoSQL such as MongoDB. I also have the know-how to implement and use databases in software applications and RESTful APIs."
+      },
+      {
+        "title": "E-Commerce",
+        "description": "I have knowledge in business and have experience with developing an e-commerce site. The Business and Web module I undertook involved responsive web design through CSS frameworks, and marketing include social media, email, and blogging."
+      },
+      {
+        "title": "Project Management",
+        "description": "Through project management modules in education and working in an agile environment, I have experience with working with project planning. I'm able to work in Agile methodologies such as SCRUM with the inclusion of DevOps, Continuous Testing/Delivery, and Jira Boards."
+      }
+    ]
+  },
+  "experience": [
+    {
+      "company": "Petronas Digital sbn bhd",
+      "title": "Software Engineer",
+      "description": "I work at the Petronas Digital sbn bhd as a backend developer. My responsibilities includes:",
+      "responsibilities": [
+        "E-Invoice Project: Optimized database interactions by implementing Drizzle ORM, resulting in 30% faster query performance. Developed UI Dashboard and OPU Management Page using Next UI and Tailwind CSS from Figma designs. Architected role-based access control and advanced search functionality. Integrated AWS S3 for secure file uploads. Mentored junior developers within Agile methodologies. Innovated multi-tenancy feature for scalable architecture.",
+        "PACES Project: Developed Excel report downloading and uploading functionalities. Implemented filter options for date range, product name, and customer name using Ant Design. Addressed security issues identified post VAWA scanning. Ensured code reliability by writing unit testing code using Jest.",
+        "Digital Academy Project: Configured CMS for rating systems allowing users to rate content and provide feedback. Managed multiple rating campaigns, ensuring seamless scheduling and avoiding conflicts. Configured the carousel banner to support various content types, ensuring accessibility and responsiveness across all devices. Implemented and fine-tuned Google Analytics (GA) tracking for the Digital Academy platform, ensuring accurate monitoring of user interactions and events. Developed Jest unit tests to ensure code reliability. Implemented Azure CI/CD for automated deployment and integration.",
+        "Falcon Project: Developed AWS Lambda functions with Serverless framework. Implemented Python program for camera distance calculation. Configured AWS SQS for message queuing. Configured AWS SNS for notifications.",
+        "Stear Project: Translated Figma designs into functional Next.js applications. Wrote Jest unit tests for code reliability."
+      ],
+      "years": "07.2022 - present",
+      "mainTech": ["NodeJS", "AWS"],
+      "technologies": [
+        "Javascript",
+        "Typescript",
+        "NodeJS",
+        "ReactJS",
+        "Redux",
+        "Redux Toolikit",
+        "NextJS",
+        "Chakra UI",
+        "Next UI",
+        "Tailwind CSS",
+        "PostgreSQL",
+        "RESTful APIs",
+        "Drizzle ORM",
+        "AWS S3",
+        "AWS SQS",
+        "AWS SNS",
+        "AWS Lamda",
+        "Microsoft Graph API",
+        "Docker",
+        "CI/CD pipelines",
+        "Unit Testing",
+        "Jest",
+        "Mocha",
+        "Chai",
+        "Test-driven Development",
+        "Confluence",
+        "Agile Development",
+        "Azure Devops"
+      ]
+    },
+    {
+      "company": "Market Bangla Limited",
+      "title": "Full Stack Developer",
+      "description": "I work at the Market Bangla Limited as a full stack developer. My responsibilities includes:",
+      "responsibilities": [
+        "Built RESTful API using HapiJS framework.",
+        "Integrated Algolia Search and later migrated to Meili Search.",
+        "Implemented AWS S3 for eﬃcient image upload capabilities.",
+        "Developed a credit system for online payments.",
+        "Integrated SSLCommerz and Bkash payment gateways for seamless transactions.",
+        "Implemented SEO techniques to improve website visibility.",
+        "Created a CMS using React for marketbangla.com.",
+        "Built NextJS website for improved performance and user experience.",
+        "Designed and implemented Inventory and Account modules.",
+        "Planned, designed, and managed PostgreSQL database.",
+        "Utilized Gitlab CI/CD to automate the deployment process on AWS.",
+        "Successfully maintained and upgraded the website with new features."
+      ],
+      "years": "11.2020 - 02.2022",
+      "mainTech": ["NodeJS"],
+      "technologies": [
+        "NextJS",
+        "HapiJS",
+        "ReactJS",
+        "Redux",
+        "Redux Toolikit",
+        "NodeJS",
+        "Reactstrap",
+        "Docker",
+        "PostgreSQL",
+        "Sequelize ORM",
+        "AWS EC2",
+        "AWS S3",
+        "AWS SES",
+        "Gitlab CI/CD",
+        "Jira",
+        "Trello",
+        "Agile Development",
+        "AWS Cloudfront",
+        "Unit Testing",
+        "Search API"
+      ]
+    },
+    {
+      "company": "Chittagong Club Limited",
+      "title": "IT Officer",
+      "description": "In a fast-paced and dynamic environment, I worked as a IT Officer to make smooth communication among all the departments",
+      "responsibilities": [
+        "Network routing, security protocols & implementations: TCP/IP.",
+        "Troubleshoot system & network problems & Diagnose & solve hardware or software faults and replacing parts.",
+        "Developed Crystal Report.",
+        "ERP software maintenance"
+      ],
+      "years": "03.2018 - 01.2019",
+      "mainTech": ["MySQL"],
+      "technologies": ["MySQL", "Crystal Report"]
+    }
+  ]
+}

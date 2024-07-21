@@ -1,0 +1,138 @@
+{
+    "basic_info": {
+      "name": "Arafat Hossain",
+      "titles": [ "Full-stack Developer", "Software Engineer" ],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/arafatruetbd",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "gitlab",
+          "url": "https://gitlab.com/arafat.ruet.bd",
+          "class": "fab fa-gitlab"
+        },
+        {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/arafat-hossain-a89531148/",
+          "class": "fab fa-linkedin"
+        },
+        {
+          "name": "researchate",
+          "url": "https://www.researchgate.net/profile/Arfat-Hossain",
+          "class": "fab fa-researchgate"
+        },
+        {
+          "name": "email",
+          "url": "mailto:arafat.ruet.bd@gmail.com",
+          "class": "fa fa-envelope"
+        }
+      ],
+      "image": "arafat.jpg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain",
+          "level": "95"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain",
+          "level": "80"
+        },
+        {
+          "name":"Tailwind CSS",
+          "class":"devicon-css3-plain",
+          "level":"80"
+        },
+        {
+          "name":"Bootstrap",
+          "class":"devicon-bootstrap-plain",
+          "level":"80"
+        },
+        {
+          "name":"Chakra UI",
+          "class":"devicon-css3-plain",
+          "level":"80"
+        },
+        {
+          "name":"Reactstrap",
+          "class":"devicon-css3-plain",
+          "level":"80"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "80"
+        },
+        {
+          "name": "NodeJS",
+          "class": "devicon-nodejs-plain",
+          "level": "85"
+        },
+        {
+          "name": "React",
+          "class": "devicon-react-plain",
+          "level": "80"
+        },
+        {
+          "name": "NextJS",
+          "class": "devicon-nextjs-original",
+          "level": "80"
+        },
+        {
+          "name": "HapiJS",
+          "class": "devicon-nodejs-plain",
+          "level": "80"
+        },
+        {
+          "name": "Redux",
+          "class": "devicon-redux-original",
+          "level": "80"
+        },
+        {
+          "name": "Redux Toolkit",
+          "class": "devicon-redux-original",
+          "level": "80"
+        },
+        {
+          "name": "AWS",
+          "class": "devicon-amazonwebservices-original",
+          "level": "75"
+        },
+        {
+          "name": "MongoDB",
+          "class": "devicon-mongodb-plain",
+          "level": "60"
+        },
+        {
+          "name": "PostgreSQL",
+          "class": "devicon-postgresql-plain",
+          "level": "80"
+        },
+        {
+          "name": "Docker",
+          "class": "devicon-docker-plain",
+          "level": "60"
+        },
+        {
+          "name": "Git",
+          "class": "devicon-git-plain",
+          "level": "95"
+        },
+        {
+          "name": "Linux",
+          "class": "devicon-linux-plain",
+          "level": "80"
+        },
+        {
+          "name": "Jira",
+          "class": "devicon-git-plain",
+          "level": "90"
+        }
+      ]
+    }
+  }
