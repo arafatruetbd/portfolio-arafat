@@ -19,7 +19,7 @@
     "react-vertical-timeline-component": "^3.3.1"
   },
   "scripts": {
-    "dev": "set NODE_OPTIONS=--openssl-legacy-provider && react-scripts start",
+    "dev": "react-scripts start",
     "start": "serve -s build",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
