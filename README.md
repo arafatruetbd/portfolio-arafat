@@ -1,13 +1,15 @@
-<h3>:books: Getting started</h3>
+### 🚀 Run the Project
 
-1. Clone or fork project.
-2. Install required dependencies with `npm install`.
-3. Remove or set `homepage` in `package.json` to single dot. 
-4. `npm start` project and customize it.
-5. Deploy on github-pages using `npm run deploy` command.
+1. Install dependencies:
 
-<pre>
-⚠️ Note that if you have portfolio on different repository than `{username}.github.io`, 
-set `homepage` in `package.json` to `https://{username}.github.io/{repository}/` 
-before deploying portfolio.
-</pre>
+   ```bash
+   yarn install
+   ```
+
+2. Start the development server:
+
+   ```bash
+   yarn dev
+   ```
+
+That's it! The project will be running at `http://localhost:3000/` by default.
